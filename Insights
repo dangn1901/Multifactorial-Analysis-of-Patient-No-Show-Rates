@@ -1,0 +1,17 @@
+Gender is NOT a factor in Patient No-Show rate.
+
+Patients are most likely to show up when the date difference (Appointment Date - Scheduled Date) is in the range of 0 to 102 days and 162 to 179 days.
+  Patient No-Show rate significantly increases in the -6 to -1 days and 103 to 161 days date difference range. 
+
+Of 81 total neighborhoods in the data, the top 7 neighboords with the highest No-Show rates (greater than or equal to 24%) are Santos Dumont, Santa Cecilia, Santa Clara, Itarare, Jesus de Nazareth, Ilha Do Principe, and Caratoira.
+
+AGE GROUP:
+  Young Adults and Teenagers have the highest No-Show rates (higher than average).
+  Middle Age and Old age groups have the lowest No-Show rates (lower than average).
+  Child, Middle Age, and Adult age groups do NOT show significant No-Show rate changes.
+
+FACTORS:
+  Having diabetes, being handicapped, and having alcoholism does NOT significantly affect patient No-Show rates.
+  Patients that receive an SMS about the appointment show a significant increase in their No-Show rate.
+  Patients that are in the scholarship program show an increase in their No-Show rate.
+  Patients that do NOT have hypertension show an increase in their No-Show rate.
